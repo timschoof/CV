@@ -1,0 +1,5 @@
+Id used for finding text block,Contents of text block. Supports markdown formatting.
+loc,text
+notes_a,I can highlight some things that are in the job advert here. 
+notes_b,"I could add some recent courses I've taken here as ""continuing education"". That could also be instead of the ""data science writing"" section on page 2. "
+presentations_aside,I had the pleasure of being the Rotating Curator for the @WeAreRLadies twitter account in May 2019

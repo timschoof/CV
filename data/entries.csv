@@ -1,0 +1,21 @@
+Where in your CV this entry belongs,Main title of the entry,Location the entry occured,Primary institution affiliation for entry,Start date of entry (year),"End year of entry. Set to ""current"" if entry is still ongoing.","Each description column is a separate bullet point for the entry. If you need more description bullet points simply add a new column with title ""description_{4,5,..}""",,,,A filter variable that is used to decide if entry is in the smaller resume.
+section,title,loc,institution,start,end,description_1,description_2,description_3,description_4,in_resume
+education,"PhD, Speech, Hearing and Phonetic Sciences",University College London,"London, UK",,2014,"Designed, conducted, and analyzed speech perception and electrophysiology experiments",,,,TRUE
+education,"MRes, Speech, Language and Cognition",University College London,"London, UK",,2011,,,,,TRUE
+education,"MA, Linguistics",Utrecht University,"Utrecht, The Netherlands",,2010,,,,,TRUE
+education,"BA, English Language and Literature",University of Groningen,"Groningen, The Netherlands",,2007,,,,,TRUE
+experience,Research Scientist,Starkey Hearing Technologies,"Eden Prairie, MN",2019,Present,"Designed, conducted, and analyzed experiments assessing novel hearing aid technology",Classified patients' degree of hearing loss using machine learning,Analyzed big data using R and SQL to evaluate hearing aid usage,Developed a patent using sensor technology and machine learning for tinnitus treatment,TRUE
+experience,Research Associate,University College London,"London, UK",2017,2019,Analyzed speech perception data using Bayesian linear mixed models,"Developed reproducible workflows using MATLAB, R, and Git",,,TRUE
+experience,Postdoctoral Fellow,Northwestern University,"Evanston, IL",2015,2016,Analyzed data from a multi-site clinical hearing aid trial using linear and logistic hierarchical mixed effects models,Taught an introductory workshop to statistical programming in R,,,TRUE
+experience,Pauline Ashley Postdoctoral Fellow,University College London,"London, UK",2014,2015,Invented a novel electrophysiological test paradigm,,,,TRUE
+academic_articles,Switching streams across ears to evaluate informational masking of speech-on-speech,"Calcus, A., Schoof, T., Rosen, S., Shinn-Cunningham, B. & Souza, P. Ear and Hearing, 41(1): 208-216",,,2020,,,,,FALSE
+academic_articles,Modulation of phase-locked neural responses to speech during different arousal stats is age-dependent,"Mai, G., Schoof, T. & Howell, P. NeuroImage, 189: 734-744",,,2019,,,,,FALSE
+academic_articles,The role of age-related declines in subcortical auditory processing in speech perception in noise. ,"Schoof, T. & Rosen, S. Journal of the Association for Research in Otolaryngology, 17(5): 441-460",,,2016,,,,,FALSE
+academic_articles,The role of auditory and cognitive factors in understanding speech in noise by normal-hearing older listeners,"Schoof, T. & Rosen, S. Frontiers is Aging Neuroscience, 6:307",,,2014,,,,,FALSE
+academic_articles,Advantages from bilateral hearing in speech perception in noise with simulated cochlear implants and residual acoustic hearing. ,"Schoof, T., Green, T., Faulkner, A. & Rosen, S. Journal of the Acoustical Society of America, 133(2): 1017-1030",,,2013,,,,,FALSE
+patents,Automatic tinnitus masker for an ear-wearable electronic device,"Reinhart, P. & Schoof, T. Provisional filed December 30, 2020. ST0927PRV",,,2020,,,,,FALSE
+presentations,Groundhog: Tips and tricks for reproducibility in R,R Ladies Twin Cities (talk),,,2021,,,,,TRUE
+presentations,Enhancing transparency and reproducibility of hearing science,"American Auditory Society, Scottsdale, AZ (poster)",,,2017,,,,,TRUE
+data_science_writing,Data science and statistics books I love,timschoof.com/post/favourite-resources,,,2020,,,,,FALSE
+data_science_writing,Writing reproducible papers in R,timschoof.com/post/reproducible-papers-r,,,2019,,,,,FALSE
+data_science_writing,Plotting audiograms in R,timschoof.com/post/plotting-audiograms-in-r,,,2019,,,,,FALSE
